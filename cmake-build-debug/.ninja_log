@@ -1,0 +1,4 @@
+# ninja log v5
+0	279	1663911712468266396	CMakeFiles/TinyHttpd.dir/main.c.o	105cfe67c75a88d8
+279	340	1663911712530432760	TinyHttpd	a416311a4c0ef561
+0	31	1663913777722091037	CMakeFiles/TinyHttpd.dir/simpleclient.c.o	eab1a73671f2805c

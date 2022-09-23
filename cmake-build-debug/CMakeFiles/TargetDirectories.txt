@@ -1,0 +1,3 @@
+/Users/shawnzhao/Code/TinyHttpd/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shawnzhao/Code/TinyHttpd/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shawnzhao/Code/TinyHttpd/cmake-build-debug/CMakeFiles/TinyHttpd.dir
